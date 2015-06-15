@@ -1,0 +1,61 @@
+
+文本
+"<msg>\n<appmsg appid=\"wxa1c691d55d8ea8cc\"  sdkver=\"0\">
+<title>科技局了</title>
+<des></des>
+<action></action>
+<type>1</type>
+<showtype>0</showtype>
+<content></content>
+<url></url>
+<lowurl></lowurl>
+<appattach>
+<totallen>0</totallen>
+<attachid></attachid>
+<emoticonmd5></emoticonmd5>
+<fileext></fileext>
+</appattach><extinfo>
+</extinfo>
+<sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl></appmsg>\n<fromusername>tuanzhang4179187</fromusername>\n<scene>0</scene>\n<appinfo>\n<version>25</version>\n<appname>搜狗输入板iPhone版</appname>\n</appinfo>\n<commenturl></commenturl></msg>\n"
+
+链接
+"<msg>\n<appmsg appid=\"wxa552e31d6839de85\"  sdkver=\"0\">
+<title>分享个团购给你</title>
+<des>仅售159元! 单人自助+哈根达斯2球，精美菜品，精美呈现</des>
+<action></action><type>5</type><showtype>0</showtype><content></content>
+<url>http://i.meituan.com/deal/625278?f=ios</url>
+<lowurl></lowurl><appattach><totallen>0</totallen><attachid></attachid>
+<emoticonmd5></emoticonmd5><fileext></fileext></appattach><extinfo></extinfo>
+<sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl></appmsg>\n
+<fromusername>tuanzhang4179187</fromusername>\n
+<scene>0</scene>\n<appinfo>\n<version>90</version>\n<appname>美团团购</appname>\n</appinfo>\n<commenturl></commenturl></msg>\n"
+
+图片
+"<msg>\n<appmsg appid=\"wx7a5a2c298900b133\"  sdkver=\"0\">
+<title>来自POCO美人相机</title>
+<des></des><action></action>
+<type>2</type><showtype>0</showtype>
+<content></content><url></url><lowurl></lowurl><appattach><totallen>41187</totallen>
+<attachid>180534660366401:180534660366401</attachid>
+<emoticonmd5></emoticonmd5><fileext></fileext></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname>
+<commenturl></commenturl></appmsg>\n
+<fromusername>tuanzhang4179187</fromusername>\n<scene>0</scene>\n<appinfo>\n<version>95</version>\n<appname>POCO美人相机</appname>\n</appinfo>\n<commenturl></commenturl></msg>\n"
+
+
+"<msg>\n<appmsg appid=\"wx5aa333606550dfd5\"  sdkver=\"0\"><title>iPhoneQQ音乐</title><des>我觉得用iPhoneQQ音乐点歌到微信挺好玩的，你装个试试！</des><action></action><type>7</type><showtype>0</showtype><content></content><url>http://url.cn/8oILHi</url><lowurl></lowurl><appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl></appmsg>\n<fromusername>tuanzhang4179187</fromusername>\n<scene>0</scene>\n<appinfo>\n<version>27</version>\n<appname>QQ音乐</appname>\n</appinfo>\n<commenturl></commenturl></msg>\n"
+
+音乐
+"<msg>\n<appmsg appid=\"wx5aa333606550dfd5\"  sdkver=\"0\">
+<title>阿士匹灵</title>
+<des>陈奕迅</des>
+<action></action><type>3</type><showtype>0</showtype><content></content>
+<url>http://y.qq.com/i/song.html#p=7B22736F6E675F4E616D65223A2220E998BFE5A3ABE58CB9E781B5222C22736F6E675F5761704C69766555524C223A22687474703A2F2F74736D7573696334382E74632E71712E636F6D2F586B30305156374F4141414134674141414250657376594E4D7A55327A4441784E654D35586A4A63366F76484F415942443174754251414F4347384439394B343965776F6244733D2F31313134383332342E6D34613F7569643D3233343931313534393826616D703B63743D3026616D703B636869643D30222C22736F6E675F5769666955524C223A22687474703A2F2F73747265616D31312E71716D757369632E71712E636F6D2F33313134383332342E6D7033222C226E657454797065223A2277696669222C22736F6E675F416C62756D223A22E88BB1E79A87E7B2BEE9808932303038222C22736F6E675F4944223A313134383332342C22736F6E675F54797065223A312C22736F6E675F53696E676572223A22E99988E5A595E8BF85222C22736F6E675F576170446F776E4C6F616455524C223A22687474703A2F2F74736D757369633132382E74632E71712E636F6D2F586C464E4D31376C414141415977414141442F6954452B656E7A457A6D6A59324D4D55314F444C5230483937504B344142713850446D3550476C56436366394D536661644D5464704E7A3163665451344D673D3D2F33313134383332342E6D70333F7569643D3233343931313534393826616D703B63743D3026616D703B636869643D3026616D703B73747265616D5F706F733D35227D</url>
+<lowurl>http://y.qq.com/i/song.html#p=7B22736F6E675F4E616D65223A2220E998BFE5A3ABE58CB9E781B5222C22736F6E675F5761704C69766555524C223A22687474703A2F2F74736D7573696334382E74632E71712E636F6D2F586B30305156374F4141414134674141414250657376594E4D7A55327A4441784E654D35586A4A63366F76484F415942443174754251414F4347384439394B343965776F6244733D2F31313134383332342E6D34613F7569643D3233343931313534393826616D703B63743D3026616D703B636869643D30222C22736F6E675F5769666955524C223A22687474703A2F2F73747265616D31312E71716D757369632E71712E636F6D2F33313134383332342E6D7033222C226E657454797065223A2263617272696572222C22736F6E675F416C62756D223A22E88BB1E79A87E7B2BEE9808932303038222C22736F6E675F4944223A313134383332342C22736F6E675F54797065223A312C22736F6E675F53696E676572223A22E99988E5A595E8BF85222C22736F6E675F576170446F776E4C6F616455524C223A22687474703A2F2F74736D757369633132382E74632E71712E636F6D2F586C464E4D31376C414141415977414141442F6954452B656E7A457A6D6A59324D4D55314F444C5230483937504B344142713850446D3550476C56436366394D536661644D5464704E7A3163665451344D673D3D2F33313134383332342E6D70333F7569643D3233343931313534393826616D703B63743D3026616D703B636869643D3026616D703B73747265616D5F706F733D35227D</lowurl>
+<appattach><totallen>0</totallen><attachid></attachid><emoticonmd5></emoticonmd5><fileext></fileext></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl></appmsg>\n<fromusername>tuanzhang4179187</fromusername>\n<scene>0</scene>\n<appinfo>\n<version>27</version>\n<appname>QQ音乐</appname>\n</appinfo>\n<commenturl></commenturl></msg>\n"
+
+Emoji:
+"<msg>\n<appmsg appid=\"wxacc9b65a7ae10dac\"  sdkver=\"0\"><title></title><des></des><action></action><type>8</type><showtype>0</showtype><content></content><url></url><lowurl></lowurl>
+<appattach><totallen>96444</totallen><attachid>185160339750912:185160339750912</attachid>
+<emoticonmd5>bbd4b895b85da8030acec68153b1a85a</emoticonmd5>
+<fileext></fileext></appattach><extinfo></extinfo><sourceusername></sourceusername><sourcedisplayname></sourcedisplayname><commenturl></commenturl></appmsg>\n
+<fromusername>tuanzhang4179187</fromusername>\n<scene>0</scene>\n<appinfo>\n<version>79</version>\n<appname>表情大全</appname>\n</appinfo>\n<commenturl></commenturl></msg>\n"

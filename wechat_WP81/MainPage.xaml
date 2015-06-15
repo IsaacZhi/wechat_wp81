@@ -1,0 +1,39 @@
+﻿<Page
+    x:Class="wechat_WP81.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:wechat_WP81"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="wechat demo for windows phone 8.1"  Margin="12,0"/>
+            <ScrollViewer Height="600">
+                <StackPanel Margin="0,20,0,0">
+                    <Button x:Name="btnLaunch" Click="Button_Click_1" Content="拉起微信"></Button>
+
+                    <Button x:Name="btnTxt_ChooseByUser" Click="Button_Click_1" Content="发送给好友或朋友圈"></Button>
+
+                    <Button x:Name="btnTxt" Click="Button_Click_1" Content="发送文本"></Button>
+                    <Button x:Name="btnImg" Click="Button_Click_1" Content="发送图片"></Button>
+                    <Button x:Name="btnEmj" Click="Button_Click_1" Content="发送Emoji"></Button>
+                    <Button x:Name="btnFile" Click="Button_Click_1" Content="发送文件"></Button>
+                    <Button x:Name="btnUrl" Click="Button_Click_1" Content="发送链接"></Button>
+                    <Button x:Name="btnMusic" Click="Button_Click_1" Content="发送音乐"></Button>
+                    <Button x:Name="btnVedio" Click="Button_Click_1" Content="发送视频"></Button>
+
+                    <Button x:Name="btnTxtSns" Click="Button_Click_1" Content="（朋友圈）发送文本" Margin="0,20,0,0"></Button>
+                    <Button x:Name="btnImgSns" Click="Button_Click_1" Content="（朋友圈）发送图片"></Button>
+                    <Button x:Name="btnUrlSns" Click="Button_Click_1" Content="（朋友圈）发送链接"></Button>
+                    <Button x:Name="btnMusicSns" Click="Button_Click_1" Content="（朋友圈）发送音乐"></Button>
+
+                </StackPanel>
+            </ScrollViewer>
+
+        </StackPanel>
+
+    </Grid>
+</Page>
